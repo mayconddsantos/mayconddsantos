@@ -6,7 +6,7 @@ Acabo de concluir o bootcamp de Análise de Dados da Practicum, onde desenvolvi 
 
 <div>
 <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=mayconddsantos&show_icons=true&theme=dark"/>
-<img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mayconddsantos&layout=compact&theme=dark"/>
+<img height="100em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mayconddsantos&layout=compact&theme=dark"/>
 </div>
 
 ### Principais ferramentas

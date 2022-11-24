@@ -5,8 +5,8 @@ Eu sou o Maycon, biomédico por formação, mas que sempre gostou de dados e tec
 Acabo de concluir o bootcamp de Análise de Dados da Practicum, onde desenvolvi habilidades em Python, SQL e Tableau e também venho estudando Power BI.
 
 <div>
-<img height="120em" src = "https://github-readme-stats.vercel.app/api?username=mayconddsantos&show_icons=true&theme=dark"/>
-<img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mayconddsantos&layout=compact&theme=dark"/>
+<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=mayconddsantos&show_icons=true&theme=dark"/>
+
 </div>
 
 ### Principais ferramentas
